@@ -5,7 +5,7 @@ public class PerimeterOfSquare{
    Scanner sc=new Scanner(System.in);
    double perimeter=sc.nextInt();
     double side = perimeter / 4;
-	System.out.println(" The length of the side is" +sid+ " whose perimeter is"+ perimeter); 
+	System.out.println(" The length of the side is" +side+ " whose perimeter is"+ perimeter); 
 	   }
 }	  
 	
