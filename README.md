@@ -101,3 +101,10 @@ BridgeLabz-Training/
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+-  ## Day 9 - Scenario based questions
+**Date:** 26-Dec-2025
+
+- Practiced scenario questions
+- created programs using switch case and if-else
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
