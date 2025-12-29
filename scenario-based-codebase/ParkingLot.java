@@ -29,7 +29,7 @@ public class ParkingLot{
   
     if(occupied>0){
        occupied--;
-        System.out.println("Car exited, Available spots " + (spots - occupied));
+        System.out.println("Car exited, Available spots" + (spots - occupied));
          }
 		 else {
      System.out.println("Parking lot is empty");
