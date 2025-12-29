@@ -5,7 +5,7 @@
 - understood procedural programming 
 - difference b/w procedural programming and object oriented programming
 - learned about classes and objects.
--**Code Link:** [program-prerequisite](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+-**Code Link:** [classandobjects](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 
 ##  Day 2 – constructors and access modifiers
@@ -14,4 +14,4 @@
 - learned about constructors and their types
 - local variable and class variable
 - understood access modifiers concepts
--**Code Link:** [program-prerequisite](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+-**Code Link:** [constructors](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
