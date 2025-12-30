@@ -118,7 +118,7 @@ BridgeLabz-Training/
 
 -
 -  ## Day 11 - Scenario based questions
-**Date:** 26-Dec-2025
+**Date:** 29-Dec-2025
 
 - Practiced scenario based questions
 - created mini projects using switch case and if-else
