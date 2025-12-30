@@ -116,3 +116,12 @@ BridgeLabz-Training/
 - Implemented decision-making problems
 - **Code Link:** [leetcode-codebase](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
 
+-
+-  ## Day 11 - Scenario based questions
+**Date:** 26-Dec-2025
+
+- Practiced scenario based questions
+- created mini projects using switch case and if-else
+- used different types of loops
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+
