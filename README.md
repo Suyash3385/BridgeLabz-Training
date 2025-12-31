@@ -125,3 +125,11 @@ BridgeLabz-Training/
 - used different types of loops
 -  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 
+
+-  ## Day 12 - Scenario based questions
+**Date:** 30-Dec-2025
+
+- Practiced scenario based questions
+- used switch case and if-else
+- used arrays to store values
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
