@@ -1,4 +1,4 @@
-package com.inheritanceHierarchical;
+package com.inheritance.Hierarchical;
 
 public class BankAccount {
 	String accountNumber;

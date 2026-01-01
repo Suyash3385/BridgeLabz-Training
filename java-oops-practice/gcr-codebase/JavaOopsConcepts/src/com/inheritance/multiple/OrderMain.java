@@ -1,4 +1,4 @@
-package com.inheritancemultiple;
+package com.inheritance.multiple;
 
 public class OrderMain {
 
