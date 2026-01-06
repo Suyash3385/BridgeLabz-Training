@@ -1,1 +1,136 @@
 # BridgeLabz-Training
+
+# BridgeLabz Training Progress Log
+
+
+## Week 1 : Git, GitHub & Java Programming Fundamentals ##
+
+
+
+##  Day 1 – Git & GitHub Setup
+**Date:** 16-Dec-2025
+
+- Installed and configured Git
+- Set up GitHub repository
+- 
+  
+```text
+  
+BridgeLabz-Training/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── extra/
+|   │   │   ├── string-handling/
+|   │   │   ├── builtin-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+└── README.md
+
+```  
+
+- Learned Git commands: `init`, `status`, `add`, `commit`, `push`
+- Pushed initial files to GitHub  
+- **Code Link:** [gcr-codebase](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase)
+
+---
+
+##  Day 2 – Git Practice & Basic Java Programs
+**Date:** 17-Dec-2025
+
+- Practiced Git workflow
+- Solved basic Java programs
+- Committed and pushed Java files  
+- **Code Link:** [program-prerequisite](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+
+---
+
+## Day 3 - Programming Elements in Java
+**Date:** 18-Dec-2025
+
+- Learned variables, data types, operators, user input/output
+- Solved practice problems
+- Pushed solutions to GitHub
+- **Code Link:** [programming-elements](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
+
+  ## Day 4 - Control Flow
+**Date:** 19-Dec-2025
+
+- Practiced if, else, switch, for-loop, while-loop, do-while-loop
+- Implemented decision-making problems
+- **Code Link:** [control-flows](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
+---
+
+## Day 5 - Arrays
+**Date :** 20-Dec-2025
+
+- Learn array initialization, implementation and memory allocation
+- Practice of 1D, 2D array
+- help in understanding the memory allocation
+- **Code Link :**[arrays](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+
+  ## Day 6 - Methods
+**Date:** 22-Dec-2025
+
+- Practiced UserDefined Methods, Using methods multiple times
+- Learned about Java.lang.Math Class
+- Implemented in problems to make more dynamic
+- **Code Link:** [methods](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+
+---
+
+  ## Day 7 - Strings
+**Date:** 23-Dec-2025
+
+- Practiced Java Strings, create Strings, Take String input
+- Learned String Arrays, String as method parameter, built-in methods, exeception
+- Implemented exception, checked or Unchecked exception
+- **Code Link:** [String](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
+ ## Day 8 - Extra
+**Date:** 24-Dec-2025
+
+- Practiced extra built-in methods
+- Learned math.random, math.pow(),etc
+- **Code Link:** [extras](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+-  ## Day 9 - Scenario based questions
+**Date:** 26-Dec-2025
+
+- Practiced scenario questions
+- created programs using switch case and if-else
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+-  ## Day 10 - leetcode problems
+**Date:** 28-Dec-2025
+
+- Practiced arrays questions
+- Implemented decision-making problems
+- **Code Link:** [leetcode-codebase](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
+
+-
+-  ## Day 11 - Scenario based questions
+**Date:** 29-Dec-2025
+
+- Practiced scenario based questions
+- created mini projects using switch case and if-else
+- used different types of loops
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+
+
+-  ## Day 12 - Scenario based questions
+**Date:** 30-Dec-2025
+
+- Practiced scenario based questions
+- used switch case and if-else
+- used arrays to store values
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
