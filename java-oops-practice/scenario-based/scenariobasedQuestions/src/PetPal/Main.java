@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Pet pet1=new Dog("Buddy", 3);
         Pet pet2=new Cat("Luna", 2);
-        Pet pet3=new Bird("Kiwi", 1);
+        Pet pet3=new Bird("Kiwi ", 1);
         pet1.makeSound();
         pet1.play();
         pet1.feed();
