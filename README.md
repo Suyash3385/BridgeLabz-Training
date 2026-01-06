@@ -110,7 +110,24 @@ BridgeLabz-Training/
 - created programs using switch case and if-else
 -  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
--  ## Day 10 - leetcode problems
+-  ##  Day 9 – classes and objects
+**Date:** 26-Dec-2025
+
+- understood procedural programming 
+- difference b/w procedural programming and object oriented programming
+- learned about classes and objects.
+-**Code Link:** [classandobjects](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+  
+##  Day 10 – constructors and access modifiers
+**Date:** 27-Dec-2025  
+
+- learned about constructors and their types
+- local variable and class variable
+- understood access modifiers concepts
+-**Code Link:** [constructors](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+
+-  ## Day 11 - leetcode problems
 **Date:** 28-Dec-2025
 
 - Practiced arrays questions
@@ -118,19 +135,106 @@ BridgeLabz-Training/
 - **Code Link:** [leetcode-codebase](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
 
 -
--  ## Day 11 - Scenario based questions
+-  ## Day 12 - Scenario based questions
 **Date:** 29-Dec-2025
 
 - Practiced scenario based questions
 - created mini projects using switch case and if-else
 - used different types of loops
--  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+-  
+
+  ##  Day 12 – keywords and instanceof operator
+**Date:** 29-Dec-2025
+
+- learned about this,static keyword 
+- learned the use of final keyword
+- practiced instanceOf operator
+-**Code Link:** [keywords](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/builtfunction)
 
 
--  ## Day 12 - Scenario based questions
+-  ## Day 13 - Scenario based questions
 **Date:** 30-Dec-2025
 
 - Practiced scenario based questions
 - used switch case and if-else
 - used arrays to store values
--  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+-  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+  
+-  ##  Day 13 – object modeling
+**Date:** 30-Dec-2025  
+
+- learned about classes and objects
+- understood difference between class diagram and object diagram
+- sequence diagram
+-**Code Link:** [object-modeling](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+  ##  Day 14 – inheritance
+**Date:** 31-Dec-2025  
+
+- learned about inheritance and their types
+- key features of inheritance
+-Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+-**Code Link:** [inheritance](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+  ##  Day 15 – encapsulation
+**Date:** 1-jan-2026  
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+-**Code Link:** [encapsulation](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+  
+ ##  Day 16 – scenario based
+**Date:** 2-jan-2026  
+- used interfaces
+- abstract classes and methods
+- learned about loose coupling
+- helper methods
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+  
+##  Day 17 – linkedlist
+
+**Date:** 3-jan-2026
+- 
+- learned about single linkedlist
+- doubly linkedlist
+- circular linkedlist
+ 
+- **Code Link:** [linkedlist](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
+
+##  Day 18 – Stacks, Queues and HashMaps
+**Date:** 4-jan-2026
+- implemented stacks
+- learned about types of queues
+- practiced hashmap and hash functions
+
+- **Code Link:** [stacks,queues,hashmaps](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
+
+  
+ ##  Day 19 – scenario based
+**Date:** 5-jan-2026  
+- used interfaces
+- abstract classes and methods
+- encapsulation and polymorphism
+- gpa calculation using operators
+- bill generation & discount application
+- add/remove items from cart
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+## Day 19 - Sorting algorithm
+**Date:** 5-jan-2026
+
+- implemented bubble sort
+- quick sort, insertion sort
+- merge sort 
+- **Code Link:** [sorting algorithm](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+
+
+
+
