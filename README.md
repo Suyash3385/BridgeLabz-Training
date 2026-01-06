@@ -72,3 +72,12 @@
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
 
   
+    ##  Day 9 – scenario based
+**Date:** 6-jan-2026  
+- used interfaces
+- abstract classes and methods
+- encapsulation and polymorphism
+- applied access modifiers
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+  
