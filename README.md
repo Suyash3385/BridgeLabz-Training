@@ -2,6 +2,7 @@
 # BridgeLabz Training Progress Log
 
 ##  Day 1 – linkedlist
+
 **Date:** 3-jan-2026
 - 
 - learned about single linkedlist
