@@ -199,8 +199,7 @@ BridgeLabz-Training/
   
 ##  Day 17 – linkedlist
 
-**Date:** 3-jan-2026
-- 
+**Date:** 2-jan-2026
 - learned about single linkedlist
 - doubly linkedlist
 - circular linkedlist
@@ -208,7 +207,7 @@ BridgeLabz-Training/
 - **Code Link:** [linkedlist](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 ##  Day 18 – Stacks, Queues and HashMaps
-**Date:** 4-jan-2026
+**Date:** 3-jan-2026
 - implemented stacks
 - learned about types of queues
 - practiced hashmap and hash functions
