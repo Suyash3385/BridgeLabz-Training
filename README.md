@@ -188,7 +188,7 @@ BridgeLabz-Training/
 -**Code Link:** [encapsulation](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
   
- ##  Day 16 – scenario based
+ ##  Day 16 –oops scenario based
 **Date:** 2-jan-2026  
 - used interfaces
 - abstract classes and methods
@@ -216,7 +216,7 @@ BridgeLabz-Training/
 - **Code Link:** [stacks,queues,hashmaps](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
 
   
- ##  Day 19 – scenario based
+ ##  Day 19 –oops scenario based
 **Date:** 5-jan-2026  
 - used interfaces
 - abstract classes and methods
@@ -233,6 +233,14 @@ BridgeLabz-Training/
 - quick sort, insertion sort
 - merge sort 
 - **Code Link:** [sorting algorithm](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+ ##  Day 20 –oops scenario based
+**Date:** 6-jan-2026  
+- used interfaces
+- abstract classes and methods
+- encapsulation and polymorphism
+- applied access modifiers
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
 
 
 
