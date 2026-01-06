@@ -23,3 +23,52 @@
 - learned the use of final keyword
 - practiced instanceOf operator
 -**Code Link:** [keywords](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/builtfunction)
+
+  ##  Day 4 – object modeling
+**Date:** 30-Dec-2025  
+
+- learned about classes and objects
+- understood difference between class diagram and object diagram
+- sequence diagram
+-**Code Link:** [object-modeling](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+
+  ##  Day 5 – inheritance
+**Date:** 31-Dec-2025  
+
+- learned about inheritance and their types
+- key features of inheritance
+-Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+-**Code Link:** [inheritance](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+    ##  Day 6 – encapsulation
+**Date:** 1-jan-2026  
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+-**Code Link:** [encapsulation](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+  
+    ##  Day 7 – scenario based
+**Date:** 2-jan-2026  
+- used interfaces
+- abstract classes and methods
+- learned about loose coupling
+- helper methods
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+  
+    ##  Day 8 – scenario based
+**Date:** 5-jan-2026  
+- used interfaces
+- abstract classes and methods
+- encapsulation and polymorphism
+- gpa calculation using operators
+- bill generation & discount application
+- add/remove items from cart
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+  
