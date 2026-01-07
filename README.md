@@ -81,4 +81,12 @@
 - applied access modifiers
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
 
+ ##  Day 10 – oops scenario based 
+**Date:** 7-jan-2026  
+- used interfaces
+- created LoanBuddy,BookBazaar & ParkEase
+- abstract classes and methods
+- encapsulation and polymorphism
+- applied access modifiers
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
   
