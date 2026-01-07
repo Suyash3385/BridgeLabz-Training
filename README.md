@@ -78,6 +78,7 @@ BridgeLabz-Training/
 
 ---
 
+
   ## Day 6 - Methods
 **Date:** 22-Dec-2025
 
@@ -103,12 +104,16 @@ BridgeLabz-Training/
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
+
+
 -  ## Day 9 - Scenario based questions
 **Date:** 26-Dec-2025
 
 - Practiced scenario questions
 - created programs using switch case and if-else
 -  **Code Link:** [scenario-based]( https://github.com/Suyash3385/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+   ## Week 2 : object oriented programming ##
 
 -  ##  Day 9 – classes and objects
 **Date:** 26-Dec-2025
@@ -206,6 +211,8 @@ BridgeLabz-Training/
  
 - **Code Link:** [linkedlist](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
+  ## Week 3 : Data strcutures and algorithms ##
+
 ##  Day 18 – Stacks, Queues and HashMaps
 **Date:** 3-jan-2026
 - implemented stacks
@@ -241,6 +248,26 @@ BridgeLabz-Training/
 - encapsulation and polymorphism
 - applied access modifiers
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+
+ ##  Day 21 – Searching and strings
+**Date:** 7-jan-2026  
+- Implemented Linear search
+- Practiced Binary search
+- Explored StringBuilder & StringBuffer
+- Used FileReader, InputStreamReader, BufferedReader
+-**Code Link:** [searching](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+  
+ ##  Day 21 – oops scenario based 
+**Date:** 7-jan-2026  
+- used interfaces
+- created LoanBuddy,BookBazaar & ParkEase
+- abstract classes and methods
+- encapsulation and polymorphism
+- applied access modifiers
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
 
 
 
