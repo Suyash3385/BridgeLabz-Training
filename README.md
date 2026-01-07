@@ -31,6 +31,15 @@
 - merge sort 
 - **Code Link:** [sorting algorithm](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
 
+ ##  Day 4 – Searching and strings
+**Date:** 7-jan-2026  
+- Implemented Linear search
+- Practiced Binary search
+- Explored StringBuilder & StringBuffer
+- Used FileReader, InputStreamReader, BufferedReader
+-**Code Link:** [searching](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+
 
 
 
