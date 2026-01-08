@@ -89,4 +89,15 @@
 - encapsulation and polymorphism
 - applied access modifiers
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
+  
+ ##  Day 11 – oops scenario based 
+**Date:** 8-jan-2026  
+- used interfaces
+- created medistore & tourmate
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+-**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
+
   
