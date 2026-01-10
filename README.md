@@ -290,6 +290,19 @@ BridgeLabz-Training/
 - arrays and arraylist
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
 
+ ##  Day 24 – Algorithms runtime analysis
+**Date:** 10-jan-2026  
+- sorting complexities
+- string, stringbuilder & stringbuffer performance
+- file reading comparison
+- fibonacci performance
+- hashset vs treeset vs array search
+-**Code Link:** [algorithms analysis](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searchcomparison)
+
+
+
+
+
 
 
 
