@@ -25,7 +25,6 @@
 
 ## Day 3 - Sorting algorithm
 **Date:** 5-jan-2026
-
 - implemented bubble sort
 - quick sort, insertion sort
 - merge sort 
@@ -38,6 +37,15 @@
 - Explored StringBuilder & StringBuffer
 - Used FileReader, InputStreamReader, BufferedReader
 -**Code Link:** [searching](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+##  Day 5 – Algorithms runtime analysis
+**Date:** 10-jan-2026  
+- sorting complexities
+- string, stringbuilder & stringbuffer performance
+- file reading comparison
+- fibonacci performance
+- hashset vs treeset vs array search
+-**Code Link:** [algorithms analysis](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searchcomparison)
 
 
 
