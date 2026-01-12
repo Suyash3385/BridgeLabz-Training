@@ -1,4 +1,4 @@
-package TrainCompanion;
+package com.TrainCompanion;
 
 public class Compartment {
 	String name;
