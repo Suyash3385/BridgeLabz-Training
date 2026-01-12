@@ -1,4 +1,4 @@
-package CallCenter;
+package com.CallCenter;
 
 public class Main {
 	public static void main(String[]args) {
