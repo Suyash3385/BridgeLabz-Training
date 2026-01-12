@@ -1,4 +1,4 @@
-package CallCenter;
+package com.CallCenter;
 
 public class Customer {
 	private String id;
