@@ -299,6 +299,23 @@ BridgeLabz-Training/
 - hashset vs treeset vs array search
 -**Code Link:** [algorithms analysis](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searchcomparison)
 
+ ##  Day 24 – DSA scenariobased
+**Date:** 10-jan-2026  
+- used hashmap, linkedlist
+- used doubly linkedlist , stack
+- created  BookShelf – Library Organize
+- Supports adding, removing, and searching books within genres
+- created BrowserBuddy – Tab History Manager 
+- Restore recently closed tabs using a Stack
+-**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+
+ ##  Day 25 – DSA scenariobased
+**Date:** 12-jan-2026  
+- used hashmap, linkedlist
+- used doubly linkedlist , stack
+- used queue and priority queue
+-**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 
 
@@ -306,8 +323,5 @@ BridgeLabz-Training/
 
 
 
-
-
-
-
+  
 
