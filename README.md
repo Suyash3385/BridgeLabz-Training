@@ -76,6 +76,12 @@
 -**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 
+ ##  Day 8 – DSA scenariobased
+**Date:** 15-jan-2026  
+- used bubble sort small datasets
+- used insertion sort for partially sorted data
+- used merge sort for high performance sorting for large datasets
+-**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 
 
