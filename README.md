@@ -334,6 +334,14 @@ BridgeLabz-Training/
 - created homenest, budgetwise programs
 -**Code Link:** [scenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedQuestions/src)
 
+   ##  Day 27 – DSA scenariobased
+**Date:** 15-jan-2026  
+- used bubble sort small datasets
+- used insertion sort for partially sorted data
+- used merge sort for high performance sorting for large datasets
+-**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+
 
 
 
