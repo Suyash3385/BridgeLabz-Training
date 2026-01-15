@@ -66,6 +66,15 @@
 - used queue and priority queue
 -**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
+  
+  ##  Day 7 – DSA scenariobased
+**Date:** 13-jan-2026  
+- used hashmap, linkedlist
+- used doubly linkedlist , stack
+- used queue and priority queue
+- practiced circular linkedlist
+-**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
 
 
 
