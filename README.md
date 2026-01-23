@@ -341,6 +341,53 @@ BridgeLabz-Training/
 - used merge sort for high performance sorting for large datasets
 -**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
+   ##  Day 27 – DSA scenariobased
+**Date:** 16-jan-2026 
+
+-EventManager – Ticket Price Optimizer (using Quick Sort)
+-ExamCell – Student Rank Generator ( using Merge Sort)
+-RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
+-CinemaHouse – Movie Time Sorting (using Bubble Sort)
+-CropMonitor – Sensor Data Ordering (using Quick Sort)
+**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+##  Day 27 – DSA scenariobased
+**Date:** 17-jan-2026 
+
+-ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+-FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+-IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
+-SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+  ## Week 4 : java collections ##
+##  Day 28 – Generics
+**Date:** 19-jan-2026 
+
+-Introduction to Java Generics
+-Introduction to Generics
+-Type Parameters
+-Generic Classes
+-Generic Methods
+-Bounded Type Parameters
+-Wildcards
+-Solve practice on these topic
+**Code Link:** [generics](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+
+##  Day 29– DSA scenariobased
+**Date:** 20-jan-2026 
+-EduResults – Rank Sheet Generator (Merge Sort)
+-FlashDealz – Product Sorting by Discount (Quick Sort)
+-FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+##  Day 29– DSA scenariobased
+**Date:** 20-jan-2026
+-MovieTime – Theater Show Listings (Insertion Sort)
+-FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+-GamerZone – High Score Ranking System (Quick Sort)
+**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 
 
