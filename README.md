@@ -359,30 +359,26 @@ BridgeLabz-Training/
   ## Week 4 : java collections ##
 ##  Day 28 – Generics
 **Date:** 19-jan-2026 
+- Introduction to Java Generics
+- Type Parameters
+- Generic Classes
+- Wildcards
 
--Introduction to Java Generics
--Introduction to Generics
--Type Parameters
--Generic Classes
--Generic Methods
--Bounded Type Parameters
--Wildcards
--Solve practice on these topic
 **Code Link:** [generics](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
 
 ##  Day 29– DSA scenariobased
 **Date:** 20-jan-2026 
--EduResults – Rank Sheet Generator (Merge Sort)
--FlashDealz – Product Sorting by Discount (Quick Sort)
--FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 **Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 ##  Day 29– DSA scenariobased
 **Date:** 20-jan-2026
--MovieTime – Theater Show Listings (Insertion Sort)
--FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
--GamerZone – High Score Ranking System (Quick Sort)
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
 **Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 
