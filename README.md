@@ -343,21 +343,17 @@ BridgeLabz-Training/
 
    ##  Day 27 – DSA scenariobased
 **Date:** 16-jan-2026 
+- EventManager – Ticket Price Optimizer (using Quick Sort)
+- ExamCell – Student Rank Generator ( using Merge Sort)
+- CinemaHouse – Movie Time Sorting (using Bubble Sort)
 
--EventManager – Ticket Price Optimizer (using Quick Sort)
--ExamCell – Student Rank Generator ( using Merge Sort)
--RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
--CinemaHouse – Movie Time Sorting (using Bubble Sort)
--CropMonitor – Sensor Data Ordering (using Quick Sort)
 **Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
 ##  Day 27 – DSA scenariobased
 **Date:** 17-jan-2026 
-
--ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
--FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
--IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
--SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+- ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+- FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+- SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
 **Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
   ## Week 4 : java collections ##
