@@ -381,6 +381,30 @@ BridgeLabz-Training/
 - GamerZone – High Score Ranking System (Quick Sort)
 **Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
 
+##  Day 29– DSA scenariobased
+**Date:** 20-jan-2026
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+**Code Link:** [dsascenariobased](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src/com)
+
+##  Day 30– Streams
+**Date:** 21-jan-2026
+- Java I/O Streams
+- Types of Streams
+-  Object Streams
+-  ByteArray Streams
+-   Reader and Writer
+**Code Link:** [Streams](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+##  Day 31– Streams
+**Date:** 21-jan-2026
+- Java I/O Streams
+- Types of Streams
+-  Object Streams
+-  ByteArray Streams
+-   Reader and Writer
+**Code Link:** [Streams](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
 
 
