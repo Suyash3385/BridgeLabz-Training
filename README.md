@@ -397,18 +397,82 @@ BridgeLabz-Training/
 -   Reader and Writer
 **Code Link:** [Streams](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
-##  Day 31– Streams
-**Date:** 21-jan-2026
-- Java I/O Streams
-- Types of Streams
--  Object Streams
--  ByteArray Streams
--   Reader and Writer
-**Code Link:** [Streams](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+##  Day 31– exceptions
+**Date:** 22-jan-2026
+- Types of Exceptions
+- Handling Exceptions 
+- Creating Custom Exceptions
+- Extending Exception Class
+**Code Link:** [exceptions](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+  ##  Day 32- regex & Junit
+**Date:** 23-jan-2026
+- Introduction to JUnit Framework
+- Introduction to Regex, Metacharacter and quantifier
+- Java Regex API , methods
+- JUnit Annotations 
+**Code Link:** [regex and Junit ](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+
+  ##  Day 33- Annotations & Reflection
+**Date:** 24-jan-2026
+- Introduction to Annotations
+- Common Built-in Annotations, Creating Custom Annotations
+- Introduction to Reflection
+- Understanding of Reflection, Using Reflection in Java, Annotations and Reflection
+**Code Link:** [Annotations & Reflections](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+
+  ## Week 5 : java io streams ##
+    ##  Day 34- CSV Data Handling
+**Date:** 25-jan-2026
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+**Code Link:** [CSV Data Handling](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/csvdatahandling)
+
+   ##  Day 35- Json Data
+**Date:** 27-jan-2026
+- Introduction to JSON
+- Reading JSON Data
+- Writing Json Data
+- JSON Schema Validation
+**Code Link:** [JsonData](https://github.com/Suyash3385/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/json)
 
 
+  ## Week 6 : java 8 programming & features ##
+    ##  Day 36- Lambda Expressions
+**Date:** 27-jan-2026
+- Introduction to Java8 & its features
+- Introduction to Lambda Expressions
+- Learned about Method References
+- Learned about difference between Lambda expressions and method referencing
+**Code Link:** [Lambdaexpression](https://github.com/Suyash3385/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Programming/src/com/lambdaexpression)
+  
 
+   ##  Day 37- Functional Interface
+**Date:** 28-jan-2026
+- Defining and Implementing Interfaces
+- Introduction to Functional Interfaces
+- Studied the difference between  Default and Static Methods in Interfaces
+- Learned about Marker Interfaces
+**Code Link:** [FunctionalInterface](https://github.com/Suyash3385/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Programming/src/com/functionalInterface)
 
+  
+   ##  Day 38- Stream Api
+**Date:** 29-jan-2026
+- Introduction to Stream Api
+-  Practiced intermediate operations filter, map, flatMap, distinct, sorted, peek, limit, skip
+- Terminal operations- collect, forEach, reduce, count, anyMatch, allMatch, noneMatch
+- Stateless vs stateful operations
+**Code Link:** [StreamApi](https://github.com/Suyash3385/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Programming/src/com/streamapi)
+
+    
+   ##  Day 39- Functional Interface
+**Date:** 31-jan-2026
+- Introduction to Collectors
+-  Practiced capabilities -toList(), toSet(), toMap()
+-  Practiced problems using collectors
+**Code Link:** [Collectors](https://github.com/Suyash3385/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Programming/src/com/collectors)
 
 
 
